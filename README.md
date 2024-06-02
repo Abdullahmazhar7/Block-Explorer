@@ -2,11 +2,21 @@ BlockExplorer Dapp is a decentralized application that allows users to explore b
 
 
 Features
-Block Search: Search and view details of specific blocks.
-Transaction Lookup: Retrieve information about specific transactions.
-Address Details: View the transaction history and balance of a particular address.
-Real-Time Updates: Get live updates on the latest blocks and transactions.
-User-Friendly Interface: Easy to navigate and use for both beginners and advanced users.
+
+Block Search:
+Search and view details of specific blocks.
+
+Transaction Lookup:
+Retrieve information about specific transactions.
+
+Address Details:
+View the transaction history and balance of a particular address.
+
+Real-Time Updates:
+Get live updates on the latest blocks and transactions.
+
+User-Friendly Interface:
+Easy to navigate and use for both beginners and advanced users.
 
 
 
